@@ -1,0 +1,12 @@
+D:\Desk\Workspace\CompanyApp\Company\Company.Core\bin\Debug\net6.0\Company.Core.deps.json
+D:\Desk\Workspace\CompanyApp\Company\Company.Core\bin\Debug\net6.0\Company.Core.dll
+D:\Desk\Workspace\CompanyApp\Company\Company.Core\bin\Debug\net6.0\Company.Core.pdb
+D:\Desk\Workspace\CompanyApp\Company\Company.Core\obj\Debug\net6.0\Company.Core.csproj.AssemblyReference.cache
+D:\Desk\Workspace\CompanyApp\Company\Company.Core\obj\Debug\net6.0\Company.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desk\Workspace\CompanyApp\Company\Company.Core\obj\Debug\net6.0\Company.Core.AssemblyInfoInputs.cache
+D:\Desk\Workspace\CompanyApp\Company\Company.Core\obj\Debug\net6.0\Company.Core.AssemblyInfo.cs
+D:\Desk\Workspace\CompanyApp\Company\Company.Core\obj\Debug\net6.0\Company.Core.csproj.CoreCompileInputs.cache
+D:\Desk\Workspace\CompanyApp\Company\Company.Core\obj\Debug\net6.0\Company.Core.dll
+D:\Desk\Workspace\CompanyApp\Company\Company.Core\obj\Debug\net6.0\refint\Company.Core.dll
+D:\Desk\Workspace\CompanyApp\Company\Company.Core\obj\Debug\net6.0\Company.Core.pdb
+D:\Desk\Workspace\CompanyApp\Company\Company.Core\obj\Debug\net6.0\ref\Company.Core.dll

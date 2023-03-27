@@ -1,0 +1,181 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Desk\\Workspace\\CompanyApp\\Company\\ConsoleApp\\ConsoleApp.csproj": {}
+  },
+  "projects": {
+    "D:\\Desk\\Workspace\\CompanyApp\\Company\\Company.Core\\Company.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Desk\\Workspace\\CompanyApp\\Company\\Company.Core\\Company.Core.csproj",
+        "projectName": "Company.Core",
+        "projectPath": "D:\\Desk\\Workspace\\CompanyApp\\Company\\Company.Core\\Company.Core.csproj",
+        "packagesPath": "C:\\Users\\ASUSS\\.nuget\\packages\\",
+        "outputPath": "D:\\Desk\\Workspace\\CompanyApp\\Company\\Company.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ASUSS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Desk\\Workspace\\CompanyApp\\Company\\CompanyApp.Infrastructure\\CompanyApp.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Desk\\Workspace\\CompanyApp\\Company\\CompanyApp.Infrastructure\\CompanyApp.Infrastructure.csproj",
+        "projectName": "CompanyApp.Infrastructure",
+        "projectPath": "D:\\Desk\\Workspace\\CompanyApp\\Company\\CompanyApp.Infrastructure\\CompanyApp.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\ASUSS\\.nuget\\packages\\",
+        "outputPath": "D:\\Desk\\Workspace\\CompanyApp\\Company\\CompanyApp.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ASUSS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Desk\\Workspace\\CompanyApp\\Company\\Company.Core\\Company.Core.csproj": {
+                "projectPath": "D:\\Desk\\Workspace\\CompanyApp\\Company\\Company.Core\\Company.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Desk\\Workspace\\CompanyApp\\Company\\ConsoleApp\\ConsoleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Desk\\Workspace\\CompanyApp\\Company\\ConsoleApp\\ConsoleApp.csproj",
+        "projectName": "ConsoleApp",
+        "projectPath": "D:\\Desk\\Workspace\\CompanyApp\\Company\\ConsoleApp\\ConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\ASUSS\\.nuget\\packages\\",
+        "outputPath": "D:\\Desk\\Workspace\\CompanyApp\\Company\\ConsoleApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ASUSS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Desk\\Workspace\\CompanyApp\\Company\\CompanyApp.Infrastructure\\CompanyApp.Infrastructure.csproj": {
+                "projectPath": "D:\\Desk\\Workspace\\CompanyApp\\Company\\CompanyApp.Infrastructure\\CompanyApp.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
