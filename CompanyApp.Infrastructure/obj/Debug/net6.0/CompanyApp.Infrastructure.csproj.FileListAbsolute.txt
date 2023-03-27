@@ -1,0 +1,15 @@
+D:\Desk\Workspace\CompanyApp\Company\CompanyApp.Infrastructure\bin\Debug\net6.0\CompanyApp.Infrastructure.deps.json
+D:\Desk\Workspace\CompanyApp\Company\CompanyApp.Infrastructure\bin\Debug\net6.0\CompanyApp.Infrastructure.dll
+D:\Desk\Workspace\CompanyApp\Company\CompanyApp.Infrastructure\bin\Debug\net6.0\CompanyApp.Infrastructure.pdb
+D:\Desk\Workspace\CompanyApp\Company\CompanyApp.Infrastructure\bin\Debug\net6.0\Company.Core.dll
+D:\Desk\Workspace\CompanyApp\Company\CompanyApp.Infrastructure\bin\Debug\net6.0\Company.Core.pdb
+D:\Desk\Workspace\CompanyApp\Company\CompanyApp.Infrastructure\obj\Debug\net6.0\CompanyApp.Infrastructure.csproj.AssemblyReference.cache
+D:\Desk\Workspace\CompanyApp\Company\CompanyApp.Infrastructure\obj\Debug\net6.0\CompanyApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desk\Workspace\CompanyApp\Company\CompanyApp.Infrastructure\obj\Debug\net6.0\CompanyApp.Infrastructure.AssemblyInfoInputs.cache
+D:\Desk\Workspace\CompanyApp\Company\CompanyApp.Infrastructure\obj\Debug\net6.0\CompanyApp.Infrastructure.AssemblyInfo.cs
+D:\Desk\Workspace\CompanyApp\Company\CompanyApp.Infrastructure\obj\Debug\net6.0\CompanyApp.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Desk\Workspace\CompanyApp\Company\CompanyApp.Infrastructure\obj\Debug\net6.0\CompanyApp.Infrastructure.csproj.CopyComplete
+D:\Desk\Workspace\CompanyApp\Company\CompanyApp.Infrastructure\obj\Debug\net6.0\CompanyApp.Infrastructure.dll
+D:\Desk\Workspace\CompanyApp\Company\CompanyApp.Infrastructure\obj\Debug\net6.0\refint\CompanyApp.Infrastructure.dll
+D:\Desk\Workspace\CompanyApp\Company\CompanyApp.Infrastructure\obj\Debug\net6.0\CompanyApp.Infrastructure.pdb
+D:\Desk\Workspace\CompanyApp\Company\CompanyApp.Infrastructure\obj\Debug\net6.0\ref\CompanyApp.Infrastructure.dll
